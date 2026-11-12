@@ -1,0 +1,24 @@
+{
+  "level_name": "MASTERPIECE",
+  "author": "Kilo",
+  "song_id": 624012,
+  "difficulty": "Easy-Medium Demon",
+  "object_count": 253537,
+  "sections": 11,
+  "groups": 3692,
+  "colors": 137673,
+  "game_modes": [
+    "cube",
+    "cube",
+    "ship",
+    "ball",
+    "ufo",
+    "wave",
+    "robot",
+    "spider",
+    "swing",
+    "platformer",
+    "cube"
+  ],
+  "version": "2.2091"
+}
